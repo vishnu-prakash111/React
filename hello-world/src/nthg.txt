@@ -1,1 +1,0 @@
-react.fragment: is used when u want to return multiple elements without adding into an extra html element to dom
